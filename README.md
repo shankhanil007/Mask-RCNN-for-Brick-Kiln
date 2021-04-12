@@ -25,3 +25,6 @@ After performing annotations for all images we need to download the annotations 
 ## Testing the model
 
 If you are using the <a href="https://github.com/shankhanil007/Mask-RCNN-for-Brick-Kiln/blob/main/Training_and_Testing.ipynb">Training_and_Testing.ipynb</a> file, then the testing code is present in it and it uses the last trained model. But if you have already trained the model and you are having the (.h5) weights file, then use <a href="https://github.com/shankhanil007/Mask-RCNN-for-Brick-Kiln/blob/main/Testing_for_any_Downloaded_Model.ipynb">Testing_for_any_Downloaded_Model.ipynb</a> file and make changes in it accordingly.
+
+## Results
+![](Results/training14.PNG)
